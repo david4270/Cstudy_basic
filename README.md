@@ -1,5 +1,7 @@
-# Cstudy_level1
+# Cstudy_basic
 This is a 'very personal' section which is used to study C programming language.
+
+The files in this section are individual "Practices", which are not divided into classes.
 
 This project is based on Korean C programming learning web resource:
 https://dojang.io/course/view.php?id=2

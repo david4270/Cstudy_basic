@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 //Used in <Minimum and maximum values of integer types>
-#include <limits.h>
+#include <limits.h> // must be <limits.h>
 
 //Used in <Size shown integers>
 #include <stdint.h>
